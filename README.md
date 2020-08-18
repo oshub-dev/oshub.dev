@@ -22,3 +22,6 @@ In the long run, I think it will be possible to host other artifact types on
 this system, such as docker containers, pypi packages, debian packages, etc.
 In this respect this project is something like an open source version of
 packagecloud.
+
+# related:
+- https://www.packer.io/
